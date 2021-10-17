@@ -1,0 +1,27 @@
+#menu{
+	height: 800px;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    align-content: center;
+    border-width: 2px;
+    border-color: darkcyan;
+    background-color: darkcyan;
+    border-style: solid;
+    border-radius: 2%;
+}
+body{
+	background-color: lightcyan;
+}
+#button_menu{
+	text-align: center;
+	margin: 0 auto;
+	height: 25px;
+    width: 70%;
+	border-width: 2px;
+    border-color: gray;
+    background-color: gray;
+    border-style: solid;
+    border-radius: 4%;
+
+}
